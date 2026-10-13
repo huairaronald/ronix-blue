@@ -1,0 +1,9 @@
+.vscode/**
+.git/**
+.gitignore
+.vscodeignore
+**/*.vsix
+**/*.log
+node_modules/**
+.DS_Store
+Thumbs.db

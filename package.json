@@ -1,0 +1,49 @@
+{
+  "name": "ronix-blue",
+  "displayName": "Ronix Blue",
+  "description": "Un tema oscuro profesional y elegante para VS Code con fondo azul casi negro, paneles azul marino, detalles celestes y una sintaxis viva y equilibrada.",
+  "version": "1.0.3",
+  "publisher": "Ronix-Blue",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "blue",
+    "dark-blue",
+    "navy",
+    "cyan",
+    "celeste",
+    "ronix",
+    "modern"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#080c16",
+    "theme": "dark"
+  },
+  "preview": false,
+  "homepage": "https://github.com/your-username/ronix-blue#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ronix-blue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/ronix-blue/issues"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ronix Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ronix-blue-color-theme.json"
+      }
+    ]
+  }
+}
